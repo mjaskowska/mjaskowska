@@ -4,13 +4,15 @@
 
 #### 🔭 I’m currently working on ...
 + an international language proficiency app SARO (polish lessons for english, japanese and korean speakers) - open source project
+
 [DEMO](https://dev--i-saro.netlify.app/)
+
 [CODE](https://github.com/michalskirobert/saro-react)
 
 #### 🌱 I’m currently learning ...
 + React
 + How to write clean and reusable code
-+ 
+
 #### 💬 Ask me about ...
 ...anything :) 
 
