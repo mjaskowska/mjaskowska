@@ -1,6 +1,6 @@
 ### Hi there 👋
  I'm Magda. I'm a self-taught Frontend Developer looking for a full-time position where I will be able to work alongside other talented IT professionals.
- Feel free to browse my [portfolio](https://mjaskowska.github.io/portfolio/) to learn more about me.
+ Feel free to check out my [portfolio](https://mjaskowska.github.io/portfolio/) to learn more about me.
 
 #### 🔭 I’m currently working on ...
 + an international language proficiency app SARO (polish lessons for english, japanese and korean speakers) - open source project
