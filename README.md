@@ -9,6 +9,7 @@
 
 #### 🌱 I’m currently learning ...
 + React
++ TypeScript
 + How to write clean and reusable code
 
 #### 💬 Ask me about ...
