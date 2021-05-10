@@ -22,7 +22,8 @@ Easiest way? Scroll to contact section in my [portfolio](https://mjaskowska.gith
 
 Repo | Last commit | Status | Description
 ---- | ----------- | ------ | -----------
-[SARO](https://github.com/michalskirobert/saro-react) |   | In progress | Language proficiency app
+[SARO](https://github.com/michalskirobert/saro-react) | ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/michalskirobert/saro-react/dev)  | In progress | Language proficiency app
+[Portfolio](https://github.com/mjaskowska/portfolio) | ![GitHub last commit](https://img.shields.io/github/last-commit/mjaskowska/portfolio) | Finished | My current portfolio.
 [Portfolio v1](https://github.com/mjaskowska/portfolio-v1) | ![GitHub last commit](https://img.shields.io/github/last-commit/mjaskowska/portfolio-v1) | Finished | First version of my online portfolio.
 [CSS Locks](https://github.com/mjaskowska/CSS-locks-react) | ![GitHub last commit](https://img.shields.io/github/last-commit/mjaskowska/CSS-locks-react) | Awaiting update | CSS locks - calc() function generator.
 [Cocktails](https://github.com/mjaskowska/cocktail-mixer) | ![GitHub last commit](https://img.shields.io/github/last-commit/mjaskowska/cocktail-mixer) | Finished | React app - cocktails API.
