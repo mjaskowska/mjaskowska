@@ -12,9 +12,6 @@
 + TypeScript
 + How to write clean and reusable code
 
-#### 💬 Ask me about ...
-...anything :) 
-
 #### 📫 How to reach me: ...
 Easiest way? Scroll to contact section in my [portfolio](https://mjaskowska.github.io/portfolio/)
 
