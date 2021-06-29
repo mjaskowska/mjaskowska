@@ -1,14 +1,14 @@
 ### Hi there 👋
- I'm Magda. I'm a self-taught Frontend Developer looking for a full-time position where I will be able to work alongside other talented IT professionals.
- Feel free to check out my [portfolio](https://mjaskowska.github.io/portfolio/) to learn more about me.
+I am a Software Engineer working on mobile apps in React Native.
 
-#### 🔭 I’m currently working on ...
+#### 🔭In the meantime I’m currently working on ...
 + an international language proficiency app SARO (polish lessons for english, japanese and korean speakers) - open source project
 
 [DEMO](https://dev--i-saro.netlify.app/)   |   [CODE](https://github.com/michalskirobert/saro-react)
 
 #### 🌱 I’m currently learning ...
 + React
++ React Native
 + TypeScript
 + How to write clean and reusable code
 
