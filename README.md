@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a Software Engineer working on mobile apps in React Native.
+I am a Software Engineer working with React and React Native.
 
 - [GitLab](https://gitlab.com/mjaskowska)
 - [Twitter](https://twitter.com/m_jaskowska)
