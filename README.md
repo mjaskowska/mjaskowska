@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a Software Engineer working with React and React Native.
+I am a Software Engineer. Currently helping hoteliers to make some more money.
 
 - [GitLab](https://gitlab.com/mjaskowska)
 - [Twitter](https://twitter.com/m_jaskowska)
